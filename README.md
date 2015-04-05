@@ -20,7 +20,12 @@ npm install --save typographic-apostrophes
 
 ## Usage
 
-Use typographic apostrophes in con­trac­tions and for pos­ses­sive case. This module don't cover posessive cases in plurals, because it’s hard to distinguish it from single closing quote.
+Use typographic apostrophes in con­trac­tions and for pos­ses­sive case. This module don't cover posessive plurals, because it’s impossible to distinguish it from single closing quote.
+
+That's why I created [typographic-apostrophes-for-possessive-plurals][plurals], but it can be used safely only if there are zero closing quotes in the input; this can be achieved by [typographic-quotes][quotes]. That’s why for ideal result you should use all three modules in the chain: `apostrophes → quotes → apostrophes-for-possessive-plurals` (order is important).
+
+[plurals]: https://www.npmjs.com/package/typographic-apostrophes-for-possessive-plurals
+[quotes]: https://www.npmjs.com/package/typographic-quotes
 
 ```js
 var apostrophes = require('typographic-apostrophes');
