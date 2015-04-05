@@ -25,13 +25,13 @@ Use typographic apostrophes in con­trac­tions and for pos­ses­sive case. Thi
 ```js
 var apostrophes = require('typographic-apostrophes');
 
-apostrophes(`I'm looking forward`);        // `I’m looking forward`
-apostrophes(`Don't do it!`);               // `Don’t do it!`
-apostrophes(`as in the eagle's feathers`); // `as in the eagle’s feathers`
-apostrophes(`in one month's time`);        // `in one month’s time`
-apostrophes(`'60s and '80s`);              // `’60s and ’80s`
-apostrophes(`rock'n'roll`);                // `rock’n’roll`
-apostrophes(`rock 'n' roll`);              // `rock ’n’ roll`
+apostrophes(`I'm looking forward`);        // I’m looking forward
+apostrophes(`Don't do it!`);               // Don’t do it!
+apostrophes(`as in the eagle's feathers`); // as in the eagle’s feathers
+apostrophes(`in one month's time`);        // in one month’s time
+apostrophes(`'60s and '80s`);              // ’60s and ’80s
+apostrophes(`rock'n'roll`);                // rock’n’roll
+apostrophes(`rock 'n' roll`);              // rock ’n’ roll
 ```
 
 
