@@ -1,6 +1,6 @@
 {
   "name": "typographic-apostrophes",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Make sure they’re curly and point downward",
   "main": "index.es5.js",
   "scripts": {
