@@ -41,7 +41,7 @@ apostrophes(`rock 'n' roll`);              // rock ’n’ roll
 
 ## License
 
-MIT © [Vladimir Starkov](http://vstarkov.com/)
+MIT © [Vladimir Starkov](http://iamstarkov.com/)
 
 [rtfm]: practicaltypography.com/apostrophes.html
 [habits]: http://practicaltypography.com/typewriter-habits.html
