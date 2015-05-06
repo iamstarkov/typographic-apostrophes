@@ -39,12 +39,6 @@ apostrophes(`rock'n'roll`);                // rock’n’roll
 apostrophes(`rock 'n' roll`);              // rock ’n’ roll
 ```
 
-## Real world examples
-
-Check complex usage with real world examples in [typography playground][playground].
-
-[playground]: https://github.com/matmuchrapna/typographic-playground
-
 ## License
 
 MIT © [Vladimir Starkov](http://vstarkov.com/)
@@ -55,14 +49,14 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 [npm-url]: https://npmjs.org/package/typographic-apostrophes
 [npm-image]: http://img.shields.io/npm/v/typographic-apostrophes.svg
 
-[travis-url]: https://travis-ci.org/matmuchrapna/typographic-apostrophes
-[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-apostrophes.svg
+[travis-url]: https://travis-ci.org/iamstarkov/typographic-apostrophes
+[travis-image]: http://img.shields.io/travis/iamstarkov/typographic-apostrophes.svg
 
-[coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-apostrophes
-[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-apostrophes.svg
+[coveralls-url]: https://coveralls.io/r/iamstarkov/typographic-apostrophes
+[coveralls-image]: http://img.shields.io/coveralls/iamstarkov/typographic-apostrophes.svg
 
-[depstat-url]: https://david-dm.org/matmuchrapna/typographic-apostrophes
-[depstat-image]: https://david-dm.org/matmuchrapna/typographic-apostrophes.svg
+[depstat-url]: https://david-dm.org/iamstarkov/typographic-apostrophes
+[depstat-image]: https://david-dm.org/iamstarkov/typographic-apostrophes.svg
 
-[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-apostrophes
-[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-apostrophes/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/iamstarkov/typographic-apostrophes
+[depstat-dev-image]: https://david-dm.org/iamstarkov/typographic-apostrophes/dev-status.svg
